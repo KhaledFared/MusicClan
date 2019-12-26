@@ -1,4 +1,4 @@
-token=NjU5NzY3Mzc3NjA0Mzc4NjI1.XgTJbw.8Bhcrrl6c7N5f_gxcuBE16iKT18
+token=NjU5NzY3Mzc3NjA0Mzc4NjI1.XgTMRQ.YuKZpULccThxnC7qM_QjB7xsrTc
 owner=526370086194511892
 prefix=-
 game=iT's Me Khaled 
