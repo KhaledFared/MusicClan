@@ -1,6 +1,0 @@
-owner=526370086194511892
-prefix=-
-game=iT's Me Khaled 
-stayinchannel=true
-songinstatus=true
-token=NjU5NzY3Mzc3NjA0Mzc4NjI1.Xic4EQ.EvRFDD8DmS1IVmcl-AXJCPK4Ehg
